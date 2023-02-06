@@ -1,0 +1,74 @@
+외부 O	외형 A		여윔			A		H
+					기형			B		I
+
+		체표 B			출혈,괴사		A		J
+					궤양			B		K
+					흑화			C		L
+					림프 종양		D		M
+					색소포 괴사		E		N
+
+		안구 C		혼탁			A		O
+					돌출			B		P
+					충혈			C		Q
+					소실			D		R
+					궤양			E		S
+
+		두부 D		궤양			A		T
+					출혈성 염증		B		U
+
+		아가미 뚜껑 E	괴사(궤양)		A		V
+					내측 출혈		B		W
+
+		주둥이 F		출혈			A		X
+					궤양			B		Y
+
+		복부 G		팽만			A		Z
+					함몰			B		AA
+
+		지느러미 H		부식			A		AB
+					출혈			B		AC
+					기저 괴사		C		AD
+
+		항문 I			탈장			A		AE
+					출혈			B		AF
+					확장			C		AG
+
+내부	I	복강(복수) A		젤라틴		A		AH
+					투명			B		AI
+					불투명		C		AJ
+					출혈			D		AK
+
+		아가미 B		빈혈			A		AL
+					출혈			B		AM
+					괴사			C		AN
+					부식			D		AO
+
+		간 C			결절			A		AP
+					염증			B		AQ
+					빈혈			C		AR
+					녹간증		D		AS
+					위축			E		AT
+					울혈			F		AU
+
+		신장 D		결절			A		AV
+					비대			B		AW
+
+		비장 E			비대			A		AX
+					흑화			B		AY
+
+		장 F			수양물		A		AZ
+					얇은 장벽		B		BA
+					백색 덩이		C		BB
+					염증, 출혈		D		BC
+
+		생식소 G		괴사			A		BD
+					염증			B		BE
+
+		내부 장기 H		유착			A		BF
+					지방조직 출혈	B		BG
+
+		방광 I			팽만			A		BH
+					염증			B		BI
+
+		심장	J		비대			A		BJ
+					염증			B		BK
